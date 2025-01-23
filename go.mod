@@ -1,4 +1,4 @@
-module github.com/scribesavant/raydium-swap-go
+module github.com/Nuggets1024/raydium-swap-go
 
 go 1.22.0
 
