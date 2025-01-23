@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/Nuggets1024/raydium-swap-go/raydium"
+	"github.com/Nuggets1024/raydium-swap-go/raydium/trade"
+	"github.com/Nuggets1024/raydium-swap-go/raydium/utils"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/gagliardetto/solana-go/rpc"
-	"github.com/scribesavant/raydium-swap-go/raydium"
-	"github.com/scribesavant/raydium-swap-go/raydium/trade"
-	"github.com/scribesavant/raydium-swap-go/raydium/utils"
 )
 
 func main() {

@@ -1,8 +1,8 @@
 package liquidity
 
 import (
+	"github.com/Nuggets1024/raydium-swap-go/raydium/utils"
 	bin "github.com/gagliardetto/binary"
-	"github.com/scribesavant/raydium-swap-go/raydium/utils"
 )
 
 type SimulateStruct struct {
